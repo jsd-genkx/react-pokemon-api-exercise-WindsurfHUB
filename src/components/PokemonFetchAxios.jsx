@@ -1,4 +1,4 @@
-// import useEffect and useState
+/* // import useEffect and useState
 import axios from "axios";
 import { useEffect, useState } from "react";
 
@@ -50,7 +50,7 @@ const PokemonFetchAxios = () => {
           <div key={pokemon.id} className="bg-white rounded shadow-md p-4">
             <h2 className="text-xl font-bold mb-2 capitalize">
               {pokemon.name}
-              {/* {console.log(pokemon)} */}
+              {/* {console.log(pokemon)} *//*}
             </h2>
             <img
               src={pokemon.sprites.front_default}
@@ -77,3 +77,4 @@ const PokemonFetchAxios = () => {
 };
 
 export default PokemonFetchAxios;
+ */
